@@ -1,6 +1,14 @@
 # Felon
 Fetch TikTok account region by username.
 
+```
+░█▀▀░█▀▀░█░░░█▀█░█▀█
+░█▀▀░█▀▀░█░░░█░█░█░█   v1.0
+░▀░░░▀▀▀░▀▀▀░▀▀▀░▀░▀
+```
+
+# Screenshot
+
 ![screenshot](https://raw.githubusercontent.com/haithamaouati/Felon/refs/heads/main/screenshot.jpg)
 
 ## Usage
@@ -30,7 +38,7 @@ To use the Felon script, follow these steps:
     ./Felon.sh
     ```
 
-6. Enter the TikTok username (without @)
+6. Enter the TikTok `username` _(without @)_
 
 ## Dependencies
 
