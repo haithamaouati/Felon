@@ -1,10 +1,23 @@
 # Felon
-Fetch TikTok account region by username.
+Fetch TikTok account details by username.
 
 ```
-░█▀▀░█▀▀░█░░░█▀█░█▀█
-░█▀▀░█▀▀░█░░░█░█░█░█   v1.0
-░▀░░░▀▀▀░▀▀▀░▀▀▀░▀░▀
+    ⠀   ⠀⠀⠀⢀⣀⣤⣤⣤⣤⣄⡀⠀⠀⠀⠀
+       ⠀⢀⣤⣾⣿⣾⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀
+       ⢠⣾⣿⢛⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀
+       ⣾⣯⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧
+       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+       ⣿⡿⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠻⢿⡵
+       ⢸⡇  ⠉⠛⠛⣿⣿⠛⠛⠉⠀  ⣿⡇
+       ⢸⣿⣀⠀⢀⣠⣴⡇⠹⣦⣄⡀⠀⣠⣿⡇
+       ⠈⠻⠿⠿⣟⣿⣿⣦⣤⣼⣿⣿⠿⠿⠟⠀
+       ⠀⠀⠀⠀⠸⡿⣿⣿⢿⡿⢿⠇⠀⠀⠀⠀
+       ⠀⠀⠀⠀⠀⠀⠈⠁⠈⠁⠀⠀
+⠀  _____          _                 
+ |  ___|   ___  | |   ___    _ __  
+ | |_     / _ \ | |  / _ \  | '_ \ 
+ |  _|   |  __/ | | | (_) | | | | |
+ |_|      \___| |_|  \___/  |_| |_|
 ```
 
 # Screenshot
@@ -29,13 +42,13 @@ To use the Felon script, follow these steps:
     
 3. Change the file modes
     ```
-    chmod +x Felon.sh
+    chmod +x felon.sh
     ```
     
 5. Run the script:
 
     ```bash
-    ./Felon.sh
+    ./felon.sh
     ```
 
 6. Enter the TikTok `username` _(without @)_
