@@ -41,7 +41,7 @@ To use the Felon script, follow these steps:
     ```
     
 3. Change the file modes
-    ```
+    ```bash
     chmod +x felon.sh
     ```
     
