@@ -15,7 +15,7 @@ Fetch TikTok account details by username.
 
 # Screenshot
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/haithamaouati/Felon/refs/heads/main/screenshot.jpg)
 
 ## Usage
 
