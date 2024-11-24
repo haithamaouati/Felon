@@ -50,7 +50,6 @@ To use the Felon script, follow these steps:
 
 The script requires the following dependencies:
 
-- [figlet](http://www.figlet.org/): Program for making large letters out of ordinary text
 - [curl](https://curl.se/): Command line tool for transferring data with URL syntax
 - [jq](https://stedolan.github.io/jq/): Command-line JSON processor
 
